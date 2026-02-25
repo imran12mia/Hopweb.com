@@ -1,0 +1,5 @@
+{
+ b  "name": "Hopwed Investment App",
+  "description": "A full-stack investment platform with user app and admin panel for managing deposits, withdrawals, VIP packages, and gift codes.",
+  "requestFramePermissions": []
+}
